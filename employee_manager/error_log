@@ -1,0 +1,3 @@
+[28-Sep-2022 12:28:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/mycrazyx/public_html/employee_manager/index.php:4) in /home1/mycrazyx/public_html/nav.php on line 14
+[28-Sep-2022 12:28:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/mycrazyx/public_html/employee_manager/index.php:4) in /home1/mycrazyx/public_html/nav.php on line 14
+[01-Oct-2022 14:22:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/mycrazyx/public_html/employee_manager/index.php:4) in /home1/mycrazyx/public_html/nav.php on line 15

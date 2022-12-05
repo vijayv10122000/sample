@@ -1,0 +1,5 @@
+[28-Sep-2022 10:37:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/mycrazyx/public_html/employee_profile/code.php:47) in /home1/mycrazyx/public_html/employee_profile/code.php on line 48
+[28-Sep-2022 10:39:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/mycrazyx/public_html/employee_profile/index.php on line 7
+[28-Sep-2022 10:39:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/mycrazyx/public_html/employee_profile/index.php on line 7
+[28-Sep-2022 10:41:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/mycrazyx/public_html/employee_profile/index.php on line 7
+[28-Sep-2022 11:39:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/mycrazyx/public_html/employee_profile/index.php:9) in /home1/mycrazyx/public_html/nav.php on line 14
