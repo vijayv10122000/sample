@@ -61,6 +61,7 @@
                 }
                 else{
                     echo "$fileerror";
+                    header('Location: ./');
                     ob_end_flush();
                 }
             }
